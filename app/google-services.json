@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090184211496",
+    "project_id": "univercatalog",
+    "storage_bucket": "univercatalog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090184211496:android:241f9524e15e515f38591d",
+        "android_client_info": {
+          "package_name": "com.univer.inform_catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090184211496-17qlvdj48a75ne8vj0du26out3vcqcut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.univer.inform_catalog",
+            "certificate_hash": "5027af5d71b7a68316cfec11104700a1b0ad8de9"
+          }
+        },
+        {
+          "client_id": "1090184211496-mqgcg1cuhepudaakpmamm5mjv8708nhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA1Ka3W_ZxECqP8fcFnVrZ5LKIahYS4G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090184211496-mqgcg1cuhepudaakpmamm5mjv8708nhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
